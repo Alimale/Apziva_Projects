@@ -19,3 +19,18 @@ X5 = I am satisfied with my courier
 X6 = the app makes ordering easy for me
 
 Attributes X1 to X6 indicate the responses for each question and have values from 1 to 5 where the smaller number indicates less and the higher number indicates more towards the answer.
+
+Methodology:
+
+1- EDA for cleaning and exploring data
+2- Predictive classificaiton ML models: Decision Tree, Random Forest, KNN models are applied 
+
+
+Conclusion:
+
+Random Forest model predicts the happy customers with 0.61 accuracy. The second feature (X2 : the correct ocntent of the order) is detected as the ost important feature in making customers happy.
+
+
+![Feature importance](https://github.com/Alimale/Custoemr-Happiness-ML-project/assets/23621204/6dfe51b8-7610-4807-b0ee-0a81c93ded65)
+
+
